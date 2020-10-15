@@ -69,7 +69,7 @@ var defaultConf = ServerCfg{
 	Server: Applications{{
 		Appname:    "live",
 		Live:       true,
-		Hls:        true,
+		Hls:        false,
 		StaticPush: nil,
 	}},
 }
