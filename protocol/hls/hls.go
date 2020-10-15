@@ -2,7 +2,7 @@ package hls
 
 import (
 	"fmt"
-	"github.com/gwuhaolin/livego/configure"
+	"github.com/joke15/livego/configure"
 	"net"
 	"net/http"
 	"path"
@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gwuhaolin/livego/av"
+	"github.com/joke15/livego/av"
 
 	cmap "github.com/orcaman/concurrent-map"
 	log "github.com/sirupsen/logrus"

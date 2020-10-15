@@ -1,4 +1,4 @@
-module github.com/gwuhaolin/livego
+module github.com/joke15/livego
 
 go 1.13
 
